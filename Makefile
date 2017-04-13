@@ -1,4 +1,4 @@
-LIB = periphery.a
+LIB = libperiphery.a
 SRCS = src/gpio.c src/spi.c src/i2c.c src/mmio.c src/serial.c
 
 SRCDIR = src
